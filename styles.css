@@ -3,3 +3,10 @@ body {
     padding: 0;
     background: red;
 }
+
+h1,
+p {
+    text-align: center;
+    color: #ddd;
+    font-family: Bad Script Regular;
+}
